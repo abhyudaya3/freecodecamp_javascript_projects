@@ -8,3 +8,9 @@ Created Rock-Paper-Scissor game using HTML, CSS and JavaScript. It is made using
 
 # Drum-Kit
 Created a Key press drum-kit using HTML, CSS and JavaScript.
+
+| Project-Name | Site-Link |
+| :---:| :---:|
+| Rock-Paper-Scissor |  https://rock-paper-scissor-be.netlify.app/ |
+| Drum-Kit | https://drums-101.netlify.app/ |
+| Guess-the-Number | https://guess-the-number-1210.netlify.app/ |
