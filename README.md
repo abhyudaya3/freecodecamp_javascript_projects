@@ -5,3 +5,6 @@ This contains all my freecodecamp javascript projects that I completed.
 
 # Rock-Paper-Scissor Game
 Created Rock-Paper-Scissor game using HTML, CSS and JavaScript. It is made using if-else
+
+# Drum-Kit
+Created a Key press drum-kit using HTML, CSS and JavaScript.
